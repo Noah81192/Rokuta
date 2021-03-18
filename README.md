@@ -1,7 +1,7 @@
 # DBots API
 Bot for DBots.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dbots-co/api)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Noah81192/Rokuta)
 
 ---
 
